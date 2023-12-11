@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=long2711997" alt="long2711997" /></a> </p>
 
-- 🌱 I’m currently learning at **Saskatchewan Polytechnic, Canada**
+🌱 I’m currently learning at **Saskatchewan Polytechnic, Canada**
 
-- 👨‍💻 All of my projects are available at [https://peter-navy.vercel.app/](https://peter-navy.vercel.app/)
+👨‍💻 All of my projects are available at [https://peter-navy.vercel.app/](https://peter-navy.vercel.app/)
 
-- 💬 Please feel free to contact me by **English / Japanese / Vietnamese**
+💬 Please feel free to contact me by **English / Japanese / Vietnamese**
 
-- 📫 How to reach me **longluuduchoanglong@gmail.com**
+📫 How to reach me **longluuduchoanglong@gmail.com**
 
 <p align="left">
 </p>
